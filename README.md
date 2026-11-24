@@ -1,8 +1,8 @@
 # Fortune in a Pot
 
-[![make.fun](https://img.shields.io/badge/make.fun-entry-blue)](https://make.fun/c/u-golden-heron-44-fortune-in-a-pot-ded981e9)
-[![competition](https://img.shields.io/badge/competition-fortune--in--a--pot-green)](https://make.fun/c/u-golden-heron-44-fortune-in-a-pot-ded981e9)
-[![license](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
+[![make.fun · u-golden-heron-44-fortune-in-a-pot-ded981e9](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9.svg)](https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-fortune-in-a-pot-ded981e9)
+[![rank](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9/rwnliwan/u-golden-heron-44-fortune-in-a-pot-ded981e9/rank.svg)](https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-fortune-in-a-pot-ded981e9)
+[![reward](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9/rwnliwan/u-golden-heron-44-fortune-in-a-pot-ded981e9/reward.svg)](https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-fortune-in-a-pot-ded981e9)
 
 A single line, at most 120 characters, telling a houseplant's fortune: kind, funny, unmistakably about the plant on the windowsill, for the [make.fun competition](https://make.fun/c/u-golden-heron-44-fortune-in-a-pot-ded981e9).
 
